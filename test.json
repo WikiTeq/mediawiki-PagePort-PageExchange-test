@@ -1,0 +1,46 @@
+{
+    "publisher": "PagePort",
+    "author": "PagePort",
+    "language": "en",
+    "url": "https:\/\/github.com\/WikiWorks\/Page-Exchange-packages",
+    "packages": {
+        "1606318905": {
+            "globalID": 1606318905,
+            "description": null,
+            "version": "0.1",
+            "pages": [
+                {
+                    "name": "A Crack in the Wall",
+                    "namespace": "NS_MAIN",
+                    "url": "http:\/\/mediawiki.loc\/index.php?title=A_Crack_in_the_Wall&action=raw"
+                },
+                {
+                    "name": "Footfall",
+                    "namespace": "NS_MAIN",
+                    "url": "http:\/\/mediawiki.loc\/index.php?title=Footfall&action=raw"
+                },
+                {
+                    "name": "Growth of the Soil",
+                    "namespace": "NS_MAIN",
+                    "url": "http:\/\/mediawiki.loc\/index.php?title=Growth_of_the_Soil&action=raw"
+                },
+                {
+                    "name": "Ringworld",
+                    "namespace": "NS_MAIN",
+                    "url": "http:\/\/mediawiki.loc\/index.php?title=Ringworld&action=raw"
+                },
+                {
+                    "name": "The Devotion of Suspect X",
+                    "namespace": "NS_MAIN",
+                    "url": "http:\/\/mediawiki.loc\/index.php?title=The_Devotion_of_Suspect_X&action=raw"
+                },
+                {
+                    "name": "The Interpreters",
+                    "namespace": "NS_MAIN",
+                    "url": "http:\/\/mediawiki.loc\/index.php?title=The_Interpreters&action=raw"
+                }
+            ],
+            "requiredExtensions": []
+        }
+    }
+}
